@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Semana03</string>
+    <string name="app_name">Semana03Matutino</string>
+    <string name="login_username">Usuario</string>
+    <string name="login_passwd">Contraseña</string>
 </resources>
